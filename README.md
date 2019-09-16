@@ -6,4 +6,4 @@ Crawler.py 是对m3u8文件进行批量解析，然后自动下载合并ts文件
 input.py 是鼠标自动点击部分，位置参数因人而异，自己调整，推荐使用Mac
 
 # 教程
-
+https://zhuanlan.zhihu.com/p/82594432
